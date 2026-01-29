@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0CF7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Nikita+Jadhav;Full+Stack+Java+Developer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=b148d2&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Nikita+Jadhav;Full+Stack+Java+Developer!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate Programmer and Java fullstack Develeoper</h3>
@@ -35,16 +35,20 @@
 
 #### 💻 Full Stack Java Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,python,php,mysql,postgres,mongodb,supabase,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,python,c++,js,ts,react,python,php,mysql,postgres,mongodb,supabase,tailwind,html,css" />
 </p>
 
 #### 🧠 AI / ML & GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,anaconda" />
-  <br>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,powerbi,,pandas,numpy,anaconda" />
 </p>
+---
+
+#### ☁️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,canva,postman,intellij" />
+</p>
+
 ---
 
 ### 🔭 Featured Projects
@@ -57,10 +61,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.manavmerja.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7023E4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/merja-manav-124ba7317/" target="_blank">
+  <a href="https://www.linkedin.com/in/nikita-jadhav-02082264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
