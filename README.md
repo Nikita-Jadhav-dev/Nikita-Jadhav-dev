@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-FullStack%20Java%20%2B%20AI-0CF7FF" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Student-CE'28-F7931E" />
+  <img src="https://img.shields.io/badge/Student-CE'27-F7931E" />
   <img src="https://komarev.com/ghpvc/?username=Nikita-Jadhav-dev&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
 </p>
 
@@ -35,18 +35,18 @@
 
 #### 💻 Full Stack Java Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,springboot,python,c++,js,ts,react,python,php,mysql,postgres,mongodb,supabase,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,python,php,mysql,postgres,mongodb,supabase,tailwind,html,css" />
 </p>
 
 #### 🧠 AI / ML & GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=python,powerbi,,pandas,numpy,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,powerBI,,pandas,numpy,anaconda" />
 </p>
 ---
 
 #### ☁️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,canva,postman,intellij" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
 
 ---
